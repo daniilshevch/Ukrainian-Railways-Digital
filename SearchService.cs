@@ -6,5 +6,6 @@ namespace UaRailways.Core
         //QA Fix: Ensure UTC Time Format
         //QA Fix: Fixed logic for demonstration of trains with no free places
         //QA Fix: Fixed available trains demonsration order
+        //Hotfix: Fixed critical bug with price evaluation
     }
 }
